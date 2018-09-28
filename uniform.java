@@ -1,6 +1,7 @@
 /*
 * 1h
 * 100%
+* minor problems in concerns
 */
 
 class Solution {
